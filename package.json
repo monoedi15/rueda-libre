@@ -1,0 +1,19 @@
+{
+  "name": "rueda-libre-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monoedi15/rueda.libre.git"
+  },
+  "author": "Edison Noreña",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monoedi15/rueda.libre/issues"
+  },
+  "homepage": "https://github.com/monoedi15/rueda.libre#readme"
+}
